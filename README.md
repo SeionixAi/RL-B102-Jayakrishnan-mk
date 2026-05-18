@@ -1,0 +1,7 @@
+Learning python basics...
+
+
+Numpy started..
+
+
+Reached in Pandas.
