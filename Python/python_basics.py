@@ -2,7 +2,7 @@
 name = input("Enter your name: ");
 age = input("Enter your age: ");
 
-print(f"My name is {name} and im {age} years old.hahaha")
+print(f"My name is {name} and im {age} years old.")
 
 # even or odd--------
 # num = int(input("Enter a number: "));
