@@ -34,5 +34,12 @@
 #     i+=1;
 
 # list comprehension
-even = [i for i in range(8) if i%2 == 0]
-print(even);
+# even = [i for i in range(8) if i%2 == 0]
+# print(even);
+
+def greet():
+    """This function prints a greeting message"""
+    print("Hello Python")
+
+greet()
+print(greet.__doc__)
