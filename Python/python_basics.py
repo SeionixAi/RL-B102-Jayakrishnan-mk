@@ -1,8 +1,8 @@
-# # basic prgrm--------
-name = input("Enter your name: ");
-age = input("Enter your age: ");
+# # # basic prgrm--------
+# name = input("Enter your name: ");
+# age = input("Enter your age: ");
 
-print(f"My name is {name} and im {age} years old.")
+# print(f"My name is {name} and im {age} years old.")
 
 # even or odd--------
 # num = int(input("Enter a number: "));
@@ -33,3 +33,6 @@ print(f"My name is {name} and im {age} years old.")
 #     print(i)
 #     i+=1;
 
+# list comprehension
+even = [i for i in range(8) if i%2 == 0]
+print(even);
