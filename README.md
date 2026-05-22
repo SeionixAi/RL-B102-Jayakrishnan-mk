@@ -1,7 +1,1 @@
-Learning python basics...
-
-
-Numpy started..
-
-
-Reached in Pandas.
+Learning python, numpy, pandas, ... ML
