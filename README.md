@@ -1,1 +1,1 @@
-Learning python, numpy, pandas, ... ML
+Learning python, numpy, pandas, matplotlib and seaborn.
